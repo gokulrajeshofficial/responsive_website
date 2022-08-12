@@ -141,6 +141,26 @@ body
     height: fit-content;
     width: 100%;
 }
+.robot_1_head
+{
+    font-size: 4em;
+
+}
+
+
+@media screen and (max-width: 550px) 
+{
+    .robot_1_head
+    {
+        font-size: 2em;
+
+    }
+    .robot_1_text
+    {
+        font-size: small;
+
+    }
+}
 
 .robots2
 {
